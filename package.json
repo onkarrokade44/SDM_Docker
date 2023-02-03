@@ -1,0 +1,22 @@
+{
+  "name": "nodejsapp",
+  "version": "1.0.0",
+  "description": "Simple Node js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onkarrokade44/SDM_Docker.git"
+  },
+  "author": "omkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onkarrokade44/SDM_Docker.git/issues"
+  },
+  "homepage": "https://github.com/onkarrokade44/SDM_Docker.git#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
